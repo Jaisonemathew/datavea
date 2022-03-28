@@ -958,8 +958,8 @@ section {
 .map-responsive iframe{
     left:0;
     top:0;
-    height:450px;
-    width:600px;
+    height:450;
+    width:600;
     position:absolute;
 }
 
