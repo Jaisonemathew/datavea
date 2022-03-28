@@ -958,7 +958,7 @@ section {
 .map-responsive iframe{
     left:0;
     top:0;
-    height:600;
+    height:100%;
     width:100%;
     margin:auto;
     position:absolute;
